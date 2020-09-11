@@ -7,4 +7,4 @@
 var Fname = prompt("wat is je voornaam?"); // input bij prompt word opgeslagen bij Fname bij, Sname en age gaat het precies hetzelfde.
 var Sname = prompt("wat is je achternaam?");
 var age = prompt("wat is je leeftijd?");
-document.write( Fname + ' ' + Sname + ' ' + age);//schrijft de input op het scherm
+document.write(Sname + ' ' + age);//schrijft de input op het scherm
